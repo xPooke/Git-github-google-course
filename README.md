@@ -1,1 +1,1 @@
-This is an exercise for Google git github course on Corusera.
+I am editing the README file. Adding some more details about the project description.
